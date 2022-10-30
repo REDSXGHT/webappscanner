@@ -1,0 +1,4 @@
+Web Vulnerability Scanner results for testphp.vulnweb.com (Scanned at: 2022-10-30 20:02:36.945762)
+
+SQL Injection found on http://testphp.vulnweb.com/artists.php?artist=1%20' , Payload used : ' , Method: post
+SQL Injection found on http://testphp.vulnweb.com/artists.php?artist=1%20%22 , Payload used : " , Method: post

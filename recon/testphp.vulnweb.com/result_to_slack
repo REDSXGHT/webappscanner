@@ -1,0 +1,29 @@
+Web Vulnerability Scanner results for testphp.vulnweb.com (Scanned at 2022-10-19 14:13:20.821060) 
+ 
+SQL Injection found on http://testphp.vulnweb.com/artists.php?artist=1%20' , Payload used : ' , Method: post
+SQL Injection found on http://testphp.vulnweb.com/artists.php?artist=1%20%22 , Payload used : " , Method: post
+Cross Site Scripting found on http://testphp.vulnweb.com/search.php?test=query , Payload used : <Script>alert('XSS')</scripT> , Method: post
+SQL Injection found on http://testphp.vulnweb.com/listproducts.php?artist=1%20' , Payload used : ' , Method: post
+SQL Injection found on http://testphp.vulnweb.com/listproducts.php?artist=1%20%22 , Payload used : " , Method: post
+SQL Injection found on http://testphp.vulnweb.com/product.php?pic=1%20' , Payload used : ' , Method: post
+SQL Injection found on http://testphp.vulnweb.com/product.php?pic=1%20%22 , Payload used : " , Method: post
+SQL Injection found on http://testphp.vulnweb.com/product.php?pic=2%20' , Payload used : ' , Method: post
+SQL Injection found on http://testphp.vulnweb.com/product.php?pic=2%20%22 , Payload used : " , Method: post
+SQL Injection found on http://testphp.vulnweb.com/product.php?pic=3%20' , Payload used : ' , Method: post
+SQL Injection found on http://testphp.vulnweb.com/product.php?pic=3%20%22 , Payload used : " , Method: post
+SQL Injection found on http://testphp.vulnweb.com/product.php?pic=4%20' , Payload used : ' , Method: post
+SQL Injection found on http://testphp.vulnweb.com/product.php?pic=4%20%22 , Payload used : " , Method: post
+SQL Injection found on http://testphp.vulnweb.com/product.php?pic=5%20' , Payload used : ' , Method: post
+SQL Injection found on http://testphp.vulnweb.com/product.php?pic=5%20%22 , Payload used : " , Method: post
+SQL Injection found on http://testphp.vulnweb.com/artists.php?artist=3%20' , Payload used : ' , Method: post
+SQL Injection found on http://testphp.vulnweb.com/artists.php?artist=3%20%22 , Payload used : " , Method: post
+SQL Injection found on http://testphp.vulnweb.com/listproducts.php?artist=3%20' , Payload used : ' , Method: post
+SQL Injection found on http://testphp.vulnweb.com/listproducts.php?artist=3%20%22 , Payload used : " , Method: post
+SQL Injection found on http://testphp.vulnweb.com/listproducts.php?cat=1%20' , Payload used : ' , Method: post
+SQL Injection found on http://testphp.vulnweb.com/listproducts.php?cat=1%20%22 , Payload used : " , Method: post
+SQL Injection found on http://testphp.vulnweb.com/listproducts.php?cat=2%20' , Payload used : ' , Method: post
+SQL Injection found on http://testphp.vulnweb.com/listproducts.php?cat=2%20%22 , Payload used : " , Method: post
+SQL Injection found on http://testphp.vulnweb.com/listproducts.php?cat=3%20' , Payload used : ' , Method: post
+SQL Injection found on http://testphp.vulnweb.com/listproducts.php?cat=3%20%22 , Payload used : " , Method: post
+SQL Injection found on http://testphp.vulnweb.com/listproducts.php?cat=4%20' , Payload used : ' , Method: post
+SQL Injection found on http://testphp.vulnweb.com/listproducts.php?cat=4%20%22 , Payload used : " , Method: post
