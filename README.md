@@ -8,7 +8,7 @@ $\colorbox{transparent}{{\color{red}This\ is\ a\ suite\ of\ scripts.\ Each\ scri
 
 **Syntax:**
    
-     ./recon_auto.sh [DOMAIN] [THREADS]
+    ./recon_auto.sh [DOMAIN] [THREADS]
      
 **Usage:**
 
