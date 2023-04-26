@@ -1,0 +1,234 @@
+[+] Starting to find subdomains..
+[+] Scanning for directories..
+[+] Directory found: http://testphp.vulnweb.com/cart.php
+[+] Directory found: http://testphp.vulnweb.com/guestbook.php
+[+] Directory found: http://testphp.vulnweb.com/index.php
+[+] Directory found: http://testphp.vulnweb.com/login.php
+[+] Directory found: http://testphp.vulnweb.com/logout.php
+[+] Directory found: http://testphp.vulnweb.com/search.php
+Time taken: 62.67536807060242
+[+] Found the URL: http://testphp.vulnweb.com/index.php
+[+] Found the URL: http://testphp.vulnweb.com/categories.php
+[+] Found the URL: http://testphp.vulnweb.com/artists.php
+[+] Found the URL: http://testphp.vulnweb.com/disclaimer.php
+[+] Found the URL: http://testphp.vulnweb.com/cart.php
+[+] Found the URL: http://testphp.vulnweb.com/guestbook.php
+[+] Found the URL: http://testphp.vulnweb.com/AJAX/index.php
+[+] Found the URL: http://testphp.vulnweb.com/login.php
+[+] Found the URL: http://testphp.vulnweb.com/signup.php
+[+] Found the URL: http://testphp.vulnweb.com/userinfo.php
+[+] Found the URL: http://testphp.vulnweb.com/privacy.php
+[+] Found the URL: http://testphp.vulnweb.com/artists.php?artist=1
+[+] Found the URL: http://testphp.vulnweb.com/listproducts.php?artist=1
+[+] Found the URL: http://testphp.vulnweb.com/product.php?pic=1
+[+] Found the URL: http://testphp.vulnweb.com/showimage.php?file=./pictures/1.jpg
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found the URL: http://testphp.vulnweb.com/product.php?pic=2
+[+] Found the URL: http://testphp.vulnweb.com/showimage.php?file=./pictures/2.jpg
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found the URL: http://testphp.vulnweb.com/product.php?pic=3
+[+] Found the URL: http://testphp.vulnweb.com/showimage.php?file=./pictures/3.jpg
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found the URL: http://testphp.vulnweb.com/product.php?pic=4
+[+] Found the URL: http://testphp.vulnweb.com/showimage.php?file=./pictures/4.jpg
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found the URL: http://testphp.vulnweb.com/product.php?pic=5
+[+] Found the URL: http://testphp.vulnweb.com/showimage.php?file=./pictures/5.jpg
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found the URL: http://testphp.vulnweb.com/product.php?pic=6
+[+] Found the URL: http://testphp.vulnweb.com/showimage.php?file=./pictures/6.jpg
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found the URL: http://testphp.vulnweb.com/artists.php?artist=2
+[+] Found the URL: http://testphp.vulnweb.com/listproducts.php?artist=2
+[+] Found the URL: http://testphp.vulnweb.com/product.php?pic=7
+[+] Found the URL: http://testphp.vulnweb.com/showimage.php?file=./pictures/7.jpg
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found the URL: http://testphp.vulnweb.com/artists.php?artist=3
+[+] Found the URL: http://testphp.vulnweb.com/listproducts.php?artist=3
+[+] Found the URL: http://testphp.vulnweb.com/listproducts.php?cat=1
+[+] Found the URL: http://testphp.vulnweb.com/listproducts.php?cat=2
+[+] Found the URL: http://testphp.vulnweb.com/listproducts.php?cat=3
+[+] Found the URL: http://testphp.vulnweb.com/listproducts.php?cat=4
+[+] Found the URL: http://testphp.vulnweb.com/Mod_Rewrite_Shop/
+[+] Found the URL: http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/network-attached-storage-dlink/1/
+[+] Found the URL: http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-1/
+[+] Found the URL: http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-1.html
+[+] Found the URL: http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/web-camera-a4tech/2/
+[+] Found the URL: http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-2/
+[+] Found the URL: http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-2.html
+[+] Found the URL: http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/color-printer/3/
+[+] Found the URL: http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-3/
+[+] Found the URL: http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-3.html
+[+] Found the URL: http://testphp.vulnweb.com/hpp/
+[+] Found the URL: http://testphp.vulnweb.com/hpp/?pp=12
+[+] Found the URL: http://testphp.vulnweb.com/hpp/params.php?p=valid&pp=12
+[+] Found 1 forms in http://testphp.vulnweb.com/index.php
+[+] Found 1 forms in http://testphp.vulnweb.com/index.php
+[+] Cross Site Scripting found on http://testphp.vulnweb.com/index.php
+[+] Found 1 forms in http://testphp.vulnweb.com/categories.php
+[+] Found 1 forms in http://testphp.vulnweb.com/categories.php
+[+] Cross Site Scripting found on http://testphp.vulnweb.com/categories.php
+[+] Found 1 forms in http://testphp.vulnweb.com/artists.php
+[+] Found 1 forms in http://testphp.vulnweb.com/artists.php
+[+] Cross Site Scripting found on http://testphp.vulnweb.com/artists.php
+[+] Found 1 forms in http://testphp.vulnweb.com/disclaimer.php
+[+] Found 1 forms in http://testphp.vulnweb.com/disclaimer.php
+[+] Cross Site Scripting found on http://testphp.vulnweb.com/disclaimer.php
+[+] Found 1 forms in http://testphp.vulnweb.com/cart.php
+[+] Found 1 forms in http://testphp.vulnweb.com/cart.php
+[+] Cross Site Scripting found on http://testphp.vulnweb.com/cart.php
+[+] Found 2 forms in http://testphp.vulnweb.com/guestbook.php
+[+] Found 2 forms in http://testphp.vulnweb.com/guestbook.php
+[+] Cross Site Scripting found on http://testphp.vulnweb.com/guestbook.php
+[+] Cross Site Scripting found on http://testphp.vulnweb.com/guestbook.php
+[+] Found 0 forms in http://testphp.vulnweb.com/AJAX/index.php
+[+] Found 0 forms in http://testphp.vulnweb.com/AJAX/index.php
+[+] Found 2 forms in http://testphp.vulnweb.com/login.php
+[+] Found 2 forms in http://testphp.vulnweb.com/login.php
+[+] Cross Site Scripting found on http://testphp.vulnweb.com/login.php
+[+] Found 2 forms in http://testphp.vulnweb.com/signup.php
+[+] SQL Injection found on http://testphp.vulnweb.com/signup.php
+[+] Found 2 forms in http://testphp.vulnweb.com/signup.php
+[+] Cross Site Scripting found on http://testphp.vulnweb.com/signup.php
+[+] Found 2 forms in http://testphp.vulnweb.com/userinfo.php
+[+] Found 2 forms in http://testphp.vulnweb.com/userinfo.php
+[+] Cross Site Scripting found on http://testphp.vulnweb.com/userinfo.php
+[+] Found 0 forms in http://testphp.vulnweb.com/privacy.php
+[+] Found 0 forms in http://testphp.vulnweb.com/privacy.php
+[+] Found 1 forms in http://testphp.vulnweb.com/artists.php?artist=1
+[+] SQL Injection found on http://testphp.vulnweb.com/artists.php?artist=1
+[+] SQL Injection found on http://testphp.vulnweb.com/artists.php?artist=1
+[+] Found 1 forms in http://testphp.vulnweb.com/artists.php?artist=1
+[+] Found 1 forms in http://testphp.vulnweb.com/listproducts.php?artist=1
+[+] SQL Injection found on http://testphp.vulnweb.com/listproducts.php?artist=1
+[+] SQL Injection found on http://testphp.vulnweb.com/listproducts.php?artist=1
+[+] Found 1 forms in http://testphp.vulnweb.com/listproducts.php?artist=1
+[+] Found 2 forms in http://testphp.vulnweb.com/product.php?pic=1
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=1
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=1
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=1
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=1
+[+] Found 2 forms in http://testphp.vulnweb.com/product.php?pic=1
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found 0 forms in http://testphp.vulnweb.com/showimage.php?file=./pictures/1.jpg
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found 0 forms in http://testphp.vulnweb.com/showimage.php?file=./pictures/1.jpg
+[+] Found 2 forms in http://testphp.vulnweb.com/product.php?pic=2
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=2
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=2
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=2
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=2
+[+] Found 2 forms in http://testphp.vulnweb.com/product.php?pic=2
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found 0 forms in http://testphp.vulnweb.com/showimage.php?file=./pictures/2.jpg
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found 0 forms in http://testphp.vulnweb.com/showimage.php?file=./pictures/2.jpg
+[+] Found 2 forms in http://testphp.vulnweb.com/product.php?pic=3
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=3
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=3
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=3
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=3
+[+] Found 2 forms in http://testphp.vulnweb.com/product.php?pic=3
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found 0 forms in http://testphp.vulnweb.com/showimage.php?file=./pictures/3.jpg
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found 0 forms in http://testphp.vulnweb.com/showimage.php?file=./pictures/3.jpg
+[+] Found 2 forms in http://testphp.vulnweb.com/product.php?pic=4
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=4
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=4
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=4
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=4
+[+] Found 2 forms in http://testphp.vulnweb.com/product.php?pic=4
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found 0 forms in http://testphp.vulnweb.com/showimage.php?file=./pictures/4.jpg
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found 0 forms in http://testphp.vulnweb.com/showimage.php?file=./pictures/4.jpg
+[+] Found 2 forms in http://testphp.vulnweb.com/product.php?pic=5
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=5
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=5
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=5
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=5
+[+] Found 2 forms in http://testphp.vulnweb.com/product.php?pic=5
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found 0 forms in http://testphp.vulnweb.com/showimage.php?file=./pictures/5.jpg
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found 0 forms in http://testphp.vulnweb.com/showimage.php?file=./pictures/5.jpg
+[+] Found 2 forms in http://testphp.vulnweb.com/product.php?pic=6
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=6
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=6
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=6
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=6
+[+] Found 2 forms in http://testphp.vulnweb.com/product.php?pic=6
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found 0 forms in http://testphp.vulnweb.com/showimage.php?file=./pictures/6.jpg
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found 0 forms in http://testphp.vulnweb.com/showimage.php?file=./pictures/6.jpg
+[+] Found 1 forms in http://testphp.vulnweb.com/artists.php?artist=2
+[+] SQL Injection found on http://testphp.vulnweb.com/artists.php?artist=2
+[+] SQL Injection found on http://testphp.vulnweb.com/artists.php?artist=2
+[+] Found 1 forms in http://testphp.vulnweb.com/artists.php?artist=2
+[+] Found 1 forms in http://testphp.vulnweb.com/listproducts.php?artist=2
+[+] SQL Injection found on http://testphp.vulnweb.com/listproducts.php?artist=2
+[+] SQL Injection found on http://testphp.vulnweb.com/listproducts.php?artist=2
+[+] Found 1 forms in http://testphp.vulnweb.com/listproducts.php?artist=2
+[+] Found 2 forms in http://testphp.vulnweb.com/product.php?pic=7
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=7
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=7
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=7
+[+] SQL Injection found on http://testphp.vulnweb.com/product.php?pic=7
+[+] Found 2 forms in http://testphp.vulnweb.com/product.php?pic=7
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found 0 forms in http://testphp.vulnweb.com/showimage.php?file=./pictures/7.jpg
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[+] Found 0 forms in http://testphp.vulnweb.com/showimage.php?file=./pictures/7.jpg
+[+] Found 1 forms in http://testphp.vulnweb.com/artists.php?artist=3
+[+] SQL Injection found on http://testphp.vulnweb.com/artists.php?artist=3
+[+] SQL Injection found on http://testphp.vulnweb.com/artists.php?artist=3
+[+] Found 1 forms in http://testphp.vulnweb.com/artists.php?artist=3
+[+] Found 1 forms in http://testphp.vulnweb.com/listproducts.php?artist=3
+[+] SQL Injection found on http://testphp.vulnweb.com/listproducts.php?artist=3
+[+] SQL Injection found on http://testphp.vulnweb.com/listproducts.php?artist=3
+[+] Found 1 forms in http://testphp.vulnweb.com/listproducts.php?artist=3
+[+] Found 1 forms in http://testphp.vulnweb.com/listproducts.php?cat=1
+[+] SQL Injection found on http://testphp.vulnweb.com/listproducts.php?cat=1
+[+] SQL Injection found on http://testphp.vulnweb.com/listproducts.php?cat=1
+[+] Found 1 forms in http://testphp.vulnweb.com/listproducts.php?cat=1
+[+] Found 1 forms in http://testphp.vulnweb.com/listproducts.php?cat=2
+[+] SQL Injection found on http://testphp.vulnweb.com/listproducts.php?cat=2
+[+] SQL Injection found on http://testphp.vulnweb.com/listproducts.php?cat=2
+[+] Found 1 forms in http://testphp.vulnweb.com/listproducts.php?cat=2
+[+] Found 1 forms in http://testphp.vulnweb.com/listproducts.php?cat=3
+[+] SQL Injection found on http://testphp.vulnweb.com/listproducts.php?cat=3
+[+] SQL Injection found on http://testphp.vulnweb.com/listproducts.php?cat=3
+[+] Found 1 forms in http://testphp.vulnweb.com/listproducts.php?cat=3
+[+] Found 1 forms in http://testphp.vulnweb.com/listproducts.php?cat=4
+[+] SQL Injection found on http://testphp.vulnweb.com/listproducts.php?cat=4
+[+] SQL Injection found on http://testphp.vulnweb.com/listproducts.php?cat=4
+[+] Found 1 forms in http://testphp.vulnweb.com/listproducts.php?cat=4
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/network-attached-storage-dlink/1/
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/network-attached-storage-dlink/1/
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-1/
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-1/
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-1.html
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-1.html
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/web-camera-a4tech/2/
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/web-camera-a4tech/2/
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-2/
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-2/
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-2.html
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-2.html
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/color-printer/3/
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/color-printer/3/
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-3/
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-3/
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-3.html
+[+] Found 0 forms in http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-3.html
+[+] Found 0 forms in http://testphp.vulnweb.com/hpp/
+[+] Found 0 forms in http://testphp.vulnweb.com/hpp/
+[+] Found 1 forms in http://testphp.vulnweb.com/hpp/?pp=12
+[+] Found 1 forms in http://testphp.vulnweb.com/hpp/?pp=12
+[+] Cross Site Scripting found on http://testphp.vulnweb.com/hpp/?pp=12
+[+] Found 0 forms in http://testphp.vulnweb.com/hpp/params.php?p=valid&pp=12
+[+] Found 0 forms in http://testphp.vulnweb.com/hpp/params.php?p=valid&pp=12
