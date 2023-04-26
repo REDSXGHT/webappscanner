@@ -15,6 +15,7 @@ and then change the code as required
 
     ./recon_auto.sh testphp.vulnweb.com 10
 
-## Started the script using testphp.vulnweb.com as a target
+**<ins>Started the script using testphp.vulnweb.com as a target.</ins>**
+
 
 ![alt test](https://github.com/REDSXGHT/webappscanner/blob/main/Images/recon1.png)
